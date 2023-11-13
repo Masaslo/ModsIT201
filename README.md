@@ -31,3 +31,7 @@ Create is een mod in minecraft die als energie rotatie gebruikt, het heeft meer 
 
 # Server installatie Guide
 https://www.linuxnorth.org/minecraft/modded_linux.html
+
+### Java update:
+`sudo apt update` <br>
+`sudo apt install -y` 
