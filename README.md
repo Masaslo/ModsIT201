@@ -18,7 +18,8 @@ Indien je al mods hier hebt staan kan je een nieuwe folder aan maken binnen in `
 3. **Create Confectionary**, Dit is een create mod addon voor meer soorten eten. [Wiki](https://www.curseforge.com/minecraft/mc-mods/create-confectionery)
 4. **Create Braking Bad** Dit is een hele leuke mod die niks met Crystal meth te maken heeft :)
 5. **Canary** Dit is een performance mod voor de server, hier kan je niks aan doen
-6. **Optifine** Dit is een optionele mod die ik er nogsteeds in doe, geeft shader support en features zoals dynamic lighting, ik doe deze er zelf altijd in, maar als je dit niet wilt kan je hem uit de `\.minecraft\mods` folder halen  
+6. **Optifine** Dit is een optionele mod die ik er nogsteeds in doe, geeft shader support en features zoals dynamic lighting, ik doe deze er zelf altijd in, maar als je dit niet wilt kan je hem uit de `\.minecraft\mods` folder halen
+7. **Computer Crafted Tweaked**, Dit is een Forge versie van de Computer Craft mod, dit voegd computers toe die echt geprogrameerd kunnen worden. Dit is een extreem ingewikkelde mod die eigenlijk een manier toevoegd om met dingen zoals javascript en python te kunnen programeren in minecraft. [Wiki](http://www.computercraft.info/wiki/Main_Page)
 
 ## Kleine Create uitleg:
 Create is een mod in minecraft die als energie rotatie gebruikt, het heeft meer een steampunk vibe dan echte technologie. Bijvoorbeeld om een smelter te kunnen maken, maak je een windmolen die zijn draaing doorgeeft aan een ventilator, die hete lucht door lava blaast en daarmee blokken smelt. Je hebt ook lopende banden en nieuwe manieren om hele fabrieken te maken, je hebt treinen, nieuwe tools, nieuwe materialen enzovoort. Create is de grootste en populairste minecraft mod op dit moment, en heeft de meeste downloads van een minecraft mod ooit. Youtubers zoals Mumbo Jumbo, TangoTek, Zedaph, en meer hebben deze mod ook geprobeerd en kunnen goed laten zien wat er allemaal mogelijk is.
