@@ -8,9 +8,10 @@ Open de Jar file genaamt `forge-1.20.1-47.2.0-installer.jar` en selecteer *insta
 Als minecraft 1.20.1 nog nooit geopend is in vanilla moet dit eerst gebeuren. Daarna pas kan forge geinstalleerd worden. 
 
 ## Mods
-Open de `Mods` folder en kopieer al deze jar files naar `C:\Users\$USER$\AppData\Roaming\.minecraft\mods`, als `mods` niet bestaat in `.minecraft` moet deze folder worden aangemaakt. <br>
+Open de `Mods` folder en kopieer al deze jar files naar `C:\Users\$USER$\AppData\Roaming\.minecraft\mods`, dit doe je door Windows key + R te doen en in te typen `%appdata%` als `mods` niet bestaat in `.minecraft` moet deze folder worden aangemaakt. <br>
 Indien je al mods hier hebt staan kan je een nieuwe folder aan maken binnen in `.minecraft\mods` en de oude files daar in slepen, deze worden niet uitgevoerd. Vervolgens als je de minecraft launcher opnieuw opend, zou je een nieuwe instalatie moeten zien genaamd `1.20. 1 - Forge 47.2.0` A
 
+Zet hier in deze nieuwe `mods` (zonder hoofdletter) alle JAR files die je van de `Mods` folder (met hoofdletter) hebt gepullt uit de git
 
 ## Lijst van mods
 1. **Create mod**, De create mod is de grootste mod in deze pack en waar het voornamelijk om _draait_ (letterlijk): [Wiki](https://create.fandom.com/wiki/Create_Mod_Wiki), [Starter tutorial](https://www.youtube.com/watch?v=NQIAvYO_Ras), [Showcase](https://www.youtube.com/watch?v=rR8W-f9YhYA)
