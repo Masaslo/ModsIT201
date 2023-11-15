@@ -9,9 +9,10 @@ Als minecraft 1.20.1 nog nooit geopend is in vanilla moet dit eerst gebeuren. Da
 
 ## Mods
 Open de `Mods` folder en kopieer al deze jar files naar `C:\Users\$USER$\AppData\Roaming\.minecraft\mods`, dit doe je door Windows key + R te doen en in te typen `%appdata%` als `mods` niet bestaat in `.minecraft` moet deze folder worden aangemaakt. <br>
-Indien je al mods hier hebt staan kan je een nieuwe folder aan maken binnen in `.minecraft\mods` en de oude files daar in slepen, deze worden niet uitgevoerd. Vervolgens als je de minecraft launcher opnieuw opend, zou je een nieuwe instalatie moeten zien genaamd `1.20. 1 - Forge 47.2.0` A
 
 Zet hier in deze nieuwe `mods` (zonder hoofdletter) alle JAR files die je van de `Mods` folder (met hoofdletter) hebt gepullt uit de git
+
+Indien je al mods hier hebt staan kan je een nieuwe folder aan maken binnen in `.minecraft\mods` en de oude files daar in slepen, deze worden niet uitgevoerd. Vervolgens als je de minecraft launcher opnieuw opend, zou je een nieuwe instalatie moeten zien genaamd `1.20. 1 - Forge 47.2.0` A
 
 ## Lijst van mods
 1. **Create mod**, De create mod is de grootste mod in deze pack en waar het voornamelijk om _draait_ (letterlijk): [Wiki](https://create.fandom.com/wiki/Create_Mod_Wiki), [Starter tutorial](https://www.youtube.com/watch?v=NQIAvYO_Ras), [Showcase](https://www.youtube.com/watch?v=rR8W-f9YhYA)
@@ -21,7 +22,7 @@ Zet hier in deze nieuwe `mods` (zonder hoofdletter) alle JAR files die je van de
 5. **Canary** Dit is een performance mod voor de server, hier kan je niks aan doen
 6. **Optifine** Dit is een optionele mod die ik er nogsteeds in doe, geeft shader support en features zoals dynamic lighting, ik doe deze er zelf altijd in, maar als je dit niet wilt kan je hem uit de `\.minecraft\mods` folder halen
 7. **Computer Crafted Tweaked**, Dit is een Forge versie van de Computer Craft mod, dit voegd computers toe die echt geprogrameerd kunnen worden. Dit is een extreem ingewikkelde mod die eigenlijk een manier toevoegd om met dingen zoals javascript en python te kunnen programeren in minecraft. [Wiki](http://www.computercraft.info/wiki/Main_Page)
-
+8. **Biomes o plenty**, voegt ontzettend veel bomes toe
 ## Kleine Create uitleg:
 Create is een mod in minecraft die als energie rotatie gebruikt, het heeft meer een steampunk vibe dan echte technologie. Bijvoorbeeld om een smelter te kunnen maken, maak je een windmolen die zijn draaing doorgeeft aan een ventilator, die hete lucht door lava blaast en daarmee blokken smelt. Je hebt ook lopende banden en nieuwe manieren om hele fabrieken te maken, je hebt treinen, nieuwe tools, nieuwe materialen enzovoort. Create is de grootste en populairste minecraft mod op dit moment, en heeft de meeste downloads van een minecraft mod ooit. Youtubers zoals Mumbo Jumbo, TangoTek, Zedaph, en meer hebben deze mod ook geprobeerd en kunnen goed laten zien wat er allemaal mogelijk is.
 <br>
